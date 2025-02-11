@@ -1,6 +1,6 @@
 {
-    "SoftwareVersion": "1.0",
-    "SoftwareUrl":"",
-    "Status":"False",
-    "Changelog":"[+] added blank"
+    "SoftwareVersion": "1.1.4",
+    "SoftwareUrl":"github.com/rlz-ve/x/releases/download/v1.1.4/Xeno-v1.1.4-x64.zip",
+    "Status":"True",
+    "Changelog":"[+] Xeno Is The Best"
 }
